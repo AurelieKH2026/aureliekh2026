@@ -42,5 +42,5 @@ Projet 13 — Création d’un portfolio professionnel
 
 
 📫 Contact :
-🔗 **LinkedIn** : https://www.linkedin.com/in/TON-PROFIL/
+🔗 **LinkedIn** : https://www.linkedin.com/in/aurelie-kh-87076765
 
