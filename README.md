@@ -42,3 +42,5 @@ Projet 13 — Création d’un portfolio professionnel
 
 
 📫 Contact :
+🔗 **LinkedIn** : https://www.linkedin.com/in/TON-PROFIL/
+
