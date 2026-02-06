@@ -70,15 +70,15 @@ Projet 12 — Détection des faux billets avec Python
 Projet 13 — Création d’un portfolio professionnel
 
 
-**🎓 Formations**
+# **🎓 Formations**
 
-* **2025 – Formation Data Analyst (Bac+3/4) – OpenClassrooms**
+## * **2025 – Formation Data Analyst (Bac+3/4) – OpenClassrooms**
   📊 Spécialisation en analyse de données et visualisation, Python, SQL, Excel.
 
-* **2017–2019 – Master 2 Ingénierie Financière – ESG Toulouse (Alternance)**
+## * **2017–2019 – Master 2 Ingénierie Financière – ESG Toulouse (Alternance)**
   💼 Mémoire : Gestion de trésorerie d’une PME
 
-* **2007–2008 – Master 2 Droit des Affaires – Université du Littoral Côte d’Opale (ULCO)**
+## * **2007–2008 – Master 2 Droit des Affaires – Université du Littoral Côte d’Opale (ULCO)**
   ⚖️ Mémoire : La vie personnelle du salarié dans l’utilisation des NTIC
 
 
