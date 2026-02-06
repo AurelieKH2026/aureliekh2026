@@ -39,7 +39,7 @@ Modèles de classification (Scikit-learn), préparation de données, feature eng
 
 Évaluation de modèles : accuracy, matrice de confusion, interprétation des résultats.
 
-# ------------------------------------------------------------------------------------------------------
+# 
 
 📂 Projets Data Analyst
 
