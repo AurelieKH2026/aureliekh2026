@@ -3,13 +3,50 @@
 Bonjour, je suis Aurélie 👋
 
 Je suis en reconversion professionnelle vers le métier de Data Analyst.
-Ce dépôt GitHub présente mes projets, exercices pratiques et ma progression en analyse de données.
+Ce dépôt GitHub présente mes projets pratiques en analyse de données.
 
-🔭 Projets d’analyse de données sur jeux de données réels
+COMPÉTENCES TECHNIQUES
 
-🌱 Apprentissage actif de Python, SQL, statistiques et data visualisation
+Analyse de données
 
-💬 Sujets : data cleaning, EDA, reconversion vers la data
+Nettoyage, transformation et préparation des données pour analyses fiables.
+
+Analyse exploratoire (EDA) et création d’indicateurs clés (KPI).
+
+Statistiques descriptives et détection d’anomalies et tendances.
+
+Sensibilisation RGPD et bonnes pratiques éthiques des données.
+
+Bases de données & Programmation
+
+SQL : SELECT, JOIN, GROUP BY, sous-requêtes, modélisation relationnelle.
+
+Python : Pandas, NumPy, Matplotlib, Seaborn.
+
+Notebooks Jupyter pour prototypage et documentation analytique.
+
+Data Visualisation & Business Intelligence
+
+Création de dashboards interactifs et data storytelling.
+
+Power BI : exploration visuelle et présentation de KPIs.
+
+Machine Learning
+
+Supervised & unsupervised learning pour problématiques variées.
+
+Modèles de classification (Scikit-learn), préparation de données, feature engineering.
+
+Évaluation de modèles : accuracy, matrice de confusion, interprétation des résultats.
+
+Outils complémentaires
+
+Microsoft Excel (Power Pivot), PowerPoint, Word.
+
+ERP et gestion : Microsoft Dynamics 365 Business Central, Sage 100, WINSIS (Fiducial).
+
+SIRH : Lucca, Silae.
+
 
 📂 Projets Data Analyst
 
