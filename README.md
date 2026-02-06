@@ -41,7 +41,7 @@ Modèles de classification (Scikit-learn), préparation de données, feature eng
 
 # 
 
-📂 Projets Data Analyst
+## 📂 Projets Data Analyst
 
 Projet 1 — Prenez en main votre formation de Data Analyst
 
