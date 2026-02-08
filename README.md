@@ -57,37 +57,7 @@ Voici mes projets réalisés dans le cadre de ma reconversion en data analyst. C
 - [Projet 10 — Étude sur l’eau potable avec Power BI](https://github.com/AurelieKH2026/etude-eau-potable-projet10.git)
 - [Projet 11 — Production d’une étude de marché avec Python](https://github.com/AurelieKH2026/etude-marche-projet11-la-poule.git)  
 - [Projet 12 — Détection des faux billets avec Python](https://github.com/AurelieKH2026/detection-faux-billets-projet12.git)
-
----
-
-Tu peux ajouter d’autres sections si tu veux, comme une description générale, tes compétences techniques, ou des captures d’écran de tes projets pour rendre le README plus attrayant.
-
-
-Projet 1 — Prenez en main votre formation de Data Analyst
-
-Projet 2 — Analyse de ventes pour un site e-commerce
-
-Projet 3 — Requêtage d’une base de données avec SQL
-
-Projet 4 — Étude de santé publique avec Python
-
-Projet 5 — Création et utilisation d’une base de données immobilière avec SQL
-
-Projet 6 — Optimisation de la gestion des données d’une boutique avec Python
-
-Projet 7 — Création d’un tableau de bord dynamique avec Power BI (suivi de projets)
-
-Projet 8 — Analyse des indicateurs femme-homme dans le respect du RGPD
-
-Projet 9 — Analyse des ventes d’une librairie avec Python
-
-Projet 10 — Étude sur l’eau potable avec Power BI
-
-Projet 11 — Production d’une étude de marché avec Python
-
-Projet 12 — Détection des faux billets avec Python
-
-Projet 13 — Création d’un portfolio professionnel
+- Projet 13 — Création d’un portfolio professionnel
 
 
 # **🎓 Formations**
