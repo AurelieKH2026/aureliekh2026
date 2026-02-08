@@ -65,15 +65,12 @@ Voici mes projets réalisés dans le cadre de ma reconversion en data analyst. C
 ## * **2025 – Formation Data Analyst (Bac+3/4) – OpenClassrooms**
   📊 Spécialisation en analyse de données et visualisation, Python, SQL, Excel.
 
-## * **2017–2019 – Master 2 Ingénierie Financière – ESG Toulouse (Alternance)**
+## * **2017–2019 – Master 2 Ingénierie Financière (Bac+5) – ESG Toulouse (Alternance)**
   💼 Mémoire : Gestion de trésorerie d’une PME
 
-## * **2007–2008 – Master 2 Droit des Affaires – Université du Littoral Côte d’Opale (ULCO)**
+## * **2007–2008 – Master 2 Droit des Affaires (Bac+5) – Université du Littoral Côte d’Opale (ULCO)**
   ⚖️ Mémoire : La vie personnelle du salarié dans l’utilisation des NTIC
 
 
-
-
-📫 Contact :
 🔗 **LinkedIn** : https://www.linkedin.com/in/aurelie-kh-87076765
 
