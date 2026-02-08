@@ -42,6 +42,26 @@ Modèles de classification (Scikit-learn), préparation de données, feature eng
 # 
 
 ## 📂 Projets Data Analyst
+# Mes Projets Data
+
+Voici mes projets réalisés dans le cadre de ma reconversion en data analyst. Chaque projet est cliquable pour accéder directement au repository correspondant sur GitHub.
+
+- [Projet 2 — Analyse de ventes pour un site e-commerce](https://github.com/AurelieKH2026/analyse-ventes-ecommerce-projet2.git)  
+- [Projet 3 — Requêtage d’une base de données avec SQL](https://github.com/AurelieKH2026/requeter-une-base-de-donnees-SQL-projet3.git)  
+- [Projet 4 — Étude de santé publique avec Python](https://github.com/AurelieKH2026/etude-sante-publique-projet4.git)
+- [Projet 5 — Création et utilisation d’une base de données immobilière avec SQL](https://github.com/AurelieKH2026/base-donnees-immobiliere-sql-projet5.git)
+- [Projet 6 — Optimisation de la gestion des données d’une boutique avec Python](https://github.com/AurelieKH2026/optimisation-gestion-boutique-projet6.git)
+- [Projet 7 — Création d’un tableau de bord dynamique avec Power BI (suivi de projets)](https://github.com/AurelieKH2026/tableau-de-bord-dynamique-powerbi-avancement-de-projet-projet7.git)
+- [Projet 8 — Analyse des indicateurs femme-homme dans le respect du RGPD](https://github.com/AurelieKH2026/Analyse-des-indicateurs-egalite-femmes-hommes-projet8.git)
+- [Projet 9 — Analyse des ventes d’une librairie avec Python](https://github.com/AurelieKH2026/ventes-librairie-analyse-projet9.git)  
+- [Projet 10 — Étude sur l’eau potable avec Power BI](https://github.com/AurelieKH2026/etude-eau-potable-projet10.git)
+- [Projet 11 — Production d’une étude de marché avec Python](https://github.com/AurelieKH2026/etude-marche-projet11-la-poule.git)  
+- [Projet 12 — Détection des faux billets avec Python](https://github.com/AurelieKH2026/detection-faux-billets-projet12.git)
+
+---
+
+Tu peux ajouter d’autres sections si tu veux, comme une description générale, tes compétences techniques, ou des captures d’écran de tes projets pour rendre le README plus attrayant.
+
 
 Projet 1 — Prenez en main votre formation de Data Analyst
 
