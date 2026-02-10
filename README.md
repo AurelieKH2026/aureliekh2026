@@ -5,6 +5,9 @@ Bonjour, je suis Aurélie 👋
 Je suis en reconversion professionnelle vers le métier de Data Analyst.
 Ce dépôt GitHub présente mes projets pratiques en analyse de données.
 
+🔗 Consultez ma [page personnelle](https://vanilla-chamomile-489.notion.site/Site-Web-cv_Aur-lie-3022808d27118086b220e1faa0e204f3?source=copy_link)
+
+
 # COMPÉTENCES TECHNIQUES
 
 ## Analyse de données
