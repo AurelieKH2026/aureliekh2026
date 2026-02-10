@@ -65,7 +65,8 @@ Voici mes projets réalisés dans le cadre de ma reconversion en data analyst. C
     Initiation Powerbi video : [![Watch the video](https://github.com/AurelieKH2026/video-powerbi-formation/blob/main/thumbnail_video.png)](https://github.com/AurelieKH2026/video-powerbi-formation.git)
 
 
-    Documentation powerbi creation de graphique :[![Voici le tutorial POWERBI](https://github.com/AurelieKH2026/creation-portfolio-aurelie-projet13/blob/main/Guide_de_creation_de_graphique_powerbi.pdf)
+    Documentation :[📄 Voici le tutoriel Power BI](https://github.com/AurelieKH2026/creation-portfolio-aurelie-projet13/blob/main/Guide_de_creation_de_graphique_powerbi.pdf)
+
 
 
 # **🎓 Formations**
