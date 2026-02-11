@@ -62,7 +62,7 @@ Voici mes projets réalisés dans le cadre de ma reconversion en data analyst. C
 - [Projet 12 — Détection des faux billets avec Python](https://github.com/AurelieKH2026/detection-faux-billets-projet12.git)
 - [Projet 13 — Création d’un portfolio professionnel](https://github.com/AurelieKH2026/creation-portfolio-aurelie-projet13.git).
   
-    Initiation Powerbi video : [![Watch the video](https://github.com/AurelieKH2026/video-powerbi-formation/blob/main/thumbnail_video.png)](https://github.com/AurelieKH2026/video-powerbi-formation.git)
+    Initiation Powerbi video : [![Watch the video](https://github.com/AurelieKH2026/video-powerbi-formation/blob/main/thumbnail_video.png)](video-formation-powerbi-aurelie-v2.mp4)
 
 
     Documentation :[📄 Voici le tutoriel Power BI](https://github.com/AurelieKH2026/creation-portfolio-aurelie-projet13/blob/main/Guide_de_creation_de_graphique_powerbi.pdf)
