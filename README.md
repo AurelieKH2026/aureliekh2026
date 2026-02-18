@@ -2,7 +2,10 @@
 
 Bonjour, je suis Aurélie 👋
 
-Je suis en reconversion professionnelle vers le métier de Data Analyst.
+Data Analyst récemment certifié, je mets en œuvre des méthodes d’analyse, de transformation et de visualisation de données pour produire des indicateurs fiables et faciliter la prise de décision.
+
+Au cours de ma formation, j’ai travaillé sur des projets concrets intégrant SQL, Python, Power BI et la modélisation de données, avec une attention particulière portée à la qualité des jeux de données, à l’automatisation des traitements et à la création de tableaux de bord analytiques.
+
 Ce dépôt GitHub présente mes projets pratiques en analyse de données.
 
 🔗 Consultez ma [page personnelle](https://vanilla-chamomile-489.notion.site/Site-Web-cv_Aur-lie-3022808d27118086b220e1faa0e204f3?source=copy_link)
