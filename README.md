@@ -60,7 +60,7 @@ Voici mes projets réalisés dans le cadre de ma reconversion en data analyst. C
 - [Projet 7 — Création d’un tableau de bord dynamique avec Power BI (suivi de projets)](https://github.com/AurelieKH2026/tableau-de-bord-dynamique-powerbi-avancement-de-projet-projet7.git)
 - [Projet 8 — Analyse des indicateurs femme-homme dans le respect du RGPD](https://github.com/AurelieKH2026/Analyse-des-indicateurs-egalite-femmes-hommes-projet8.git)
 - [Projet 9 — Identification des segments clients à risque de churn dans une librairie en ligne](https://github.com/AurelieKH2026/ventes-librairie-analyse-projet9.git)  
-- [Projet 10 — Étude sur l’eau potable avec Power BI](https://github.com/AurelieKH2026/etude-eau-potable-projet10.git)
+- [Projet 10 —Tableau de bord mondial d'accès à l'eau potable : aide à la décision pour ONG ](https://github.com/AurelieKH2026/etude-eau-potable-projet10.git)
 - [Projet 11 — Production d’une étude de marché avec Python](https://github.com/AurelieKH2026/etude-marche-projet11-la-poule.git)  
 - [Projet 12 — Détection des faux billets avec Python](https://github.com/AurelieKH2026/detection-faux-billets-projet12.git)
 - [Projet 13 — Création d’un portfolio professionnel](https://github.com/AurelieKH2026/creation-portfolio-aurelie-projet13.git).
